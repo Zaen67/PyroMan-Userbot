@@ -6,6 +6,10 @@ Saya membuat repository ini untuk bersenang-senang sekaligus membantu anda menge
 
 ## ⚠️ Disclaimer
 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Zaen67/PyroMan-Userbot">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
+
+
 ```
 Saya tidak bertanggung jawab atas penyalahgunaan bot ini.
 Gunakan bot ini dengan risiko Anda sendiri.
